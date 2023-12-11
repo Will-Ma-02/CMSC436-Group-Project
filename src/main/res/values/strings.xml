@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Group Project</string>
+    <string name="description">
+        Wordle with a new twist! Customize your word bank
+        with a category or global regions!
+    </string>
+</resources>
